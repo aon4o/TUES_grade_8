@@ -1,0 +1,26 @@
+body{
+	background-image:url("PP_BG_NAV.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-color: rgba(184, 184, 148,1);
+}
+h1{
+	border-radius:10px;
+	margin:auto;
+	text-align: center;
+	background-color:rgba(244,216,45,0.3);
+	width:20%;
+}
+li{
+	display:inline-block;
+	margin:10px;
+}
+li a img{
+	opacity:0.5;
+	border:3px solid black;
+	width:250px;
+	height:320px;
+}
+li a img:hover{
+	opacity:1;
+}
